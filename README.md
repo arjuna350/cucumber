@@ -37,4 +37,4 @@ b) Before executing and RunTest.java , Please read Feature file mentining BDD (B
 
 <B>6)package cucumberReport (report Format): </B>check RunTest.java , we use cucumber otion with format to specify output format of test result . e.g we can specify html or json.
 
-<I>Use chrome plugin "Tidy Gherkin", it will take feature file (plain english) and  generate corresponding Step defination code File. In code defination file call your corresponding api to test respective functionality.</I>
+<I>Use chrome plugin "Tidy Gherkin", it will take feature file (plain english) and  generate corresponding Step defination code File. In code defination file call your corresponding api to test respective scenario step.</I>
