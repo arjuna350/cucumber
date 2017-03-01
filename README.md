@@ -17,7 +17,7 @@ It supports not only English but many other native languages such as French, Fin
 
 In example ,Have used selenium to test login feture of facebook :
 
-To run and explore functionality : have sure you have install chrome web driver.
+To run and explore my examples  : make sure you have install chrome web drive just for selenium
 
 All runnable examples are under /src/test/java . 
 
@@ -37,4 +37,4 @@ b) Before executing and RunTest.java , Please read Feature file mentining BDD (B
 
 <B>6)package cucumberReport (report Format): </B>check RunTest.java , we use cucumber otion with format to specify output format of test result . e.g we can specify html or json.
 
-
+<I>Use chrome plugin "Tidy Gherkin", it will take feature file (plain english) and  generate corresponding Step defination code File. In code defination file call your corresponding api to test respective functionality.</I>
