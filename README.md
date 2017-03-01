@@ -4,12 +4,13 @@ This Project will have all feature demo use case of Cucumber .
 <B>WHY Cucumber:</B>
 Behavior Driven Development (BDD): It implement important acceptance test scenarios while development is in-progress.
 BDD gives an opportunity to create test scripts from developers, project managers, QAs, user acceptance testers and the product owner (stockholder).All these cucumber test scripts are in simple English language, so it serves the purpose of documentation also.
+It help us to Break big application into mutiple features and Test each feature with all possible scenarios.
 
 Cucumber reads the code written in plain English text (Language Gherkin)
 It finds the exact match of each step in the step definition (a code file , assume as Binding gate)
 Cucumber supports different languages/framework  Java (spring Framework) , .net and  Ruby on Rails,Selenium,PicoContainer,Watir
 
-People from different community like developers, project managers, product owners, and testers while developing test scripts.It act as common contract point for all . One Place for Documentation . 
+<I>People from different community like developers, project managers, product owners, and testers contribute while developing test scripts. Test script acts as common contract point for all . One Place for Documentation . </I>
 
 It supports not only English but many other native languages such as French, Finnish, Indonesian, Hungarian, Hindi, Urdu, Gujarati, etc.
 
